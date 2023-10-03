@@ -1,4 +1,4 @@
-module hex-microservice
+module github.com/jackduh/hexagonalArchitecture
 
 go 1.16
 
